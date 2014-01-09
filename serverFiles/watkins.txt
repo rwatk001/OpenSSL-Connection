@@ -1,0 +1,35 @@
+Ryan Watkins
+
+A federal judge in New York on Friday delivered a 10-year prison sentence to Jeremy Hammond , a prominent member of the hacking group Anonymous who pleaded guilty earlier this year to breaking into the computer servers of a string of corporations, government agencies and law enforcement advocacy groups.
+
+Before being sentenced inside a packed courthouse in Lower Manhattan, Mr. Hammond, 28, described his hacking activities as “acts of civil disobedience” against both an expanding surveillance state and the companies that do the government’s bidding. His lawyers said their client was part of a proud tradition of protest in the United States, dating back to the American Revolution.
+
+But Federal District Judge Loretta A. Preska was unmoved, telling Mr. Hammond “there’s nothing high-minded or public-spirited about causing mayhem.”
+
+“These are not the actions of Martin Luther King, Nelson Mandela, John Adams or even Daniel Ellsberg,” she said, referring to the former analyst who leaked the Pentagon Papers to several news organizations. Mr. Ellsberg had written a letter to the court praising Mr. Hammond’s hacking campaign.
+
+Judge Preska’s sentence was the exact length of time requested by federal prosecutors in the case, and she said her decision was influenced in part by his “unrepentant recidivism.” He was convicted and jailed for similar activities in 2006.
+
+Mr. Hammond was a prominent member both of Anonymous and LulzSec, a splinter group that claimed credit for hacks on a range of targets, including the website of the Central Intelligence Agency. Mr. Hammond’s most highly publicized hack came in late 2011, when he orchestrated the computer sabotage of Stratfor, a private intelligence firm based in Austin, Tex.
+
+According to prosecutors, Mr. Hammond stole at least 200 gigabytes of information from Stratfor’s computer servers, including the emails and account information of approximately 860,000 of the company’s clients. Documents filed by government said that associates of Mr. Hammond used tens of thousands of credit card numbers taken from Stratfor’s servers to make at least $700,000 worth of donations to nonprofit groups.
+
+Mr. Hammond and several other hackers were arrested based on information from another prominent member of Anonymous, Hector Xavier Monsegur, whom the FBI had turned into a government informant.
+
+It was Mr. Monsegur, known within Anonymous by his pseudonym, Sabu, who encouraged Mr. Hammond to break into Stratfor’s servers. On Friday, Mr. Hammond said that Mr. Monsegur had also pushed him to expand his hacking targets to include numerous foreign government websites, including those of Iran, Turkey and Brazil.
+
+On Friday, Mr. Hammond described Stratfor as a “deserving target,” an organization engaged in “intrusive and possibly illegal surveillance activities on behalf of large multinational corporations.” Both he and his lawyers framed his actions as noble efforts to bring greater transparency to a rapidly growing and largely unaccountable private intelligence industry.
+
+Dressed in two T-shirts and baggy pants, Mr. Hammond at one point stood at a podium at the front of the courtroom, speaking directly to Judge Preska. He said he had been inspired by Chelsea Manning, formerly known as Pfc. Bradley Manning, the soldier who gave hundreds of thousands of American diplomatic cables and military records to WikiLeaks.
+
+“If Chelsea Manning fell into the abysmal nightmare of prison fighting for the truth, could I in good conscience do any less, if I was able?” he said.
+
+But at the end of the hearing, Judge Preska said that Mr. Hammond had caused “widespread harm” beyond his intended targets. Among other things, she said, his 2011 attack on the computer system of the Arizona Department of Public Safety had disrupted the state’s sex offender website and Arizona’s Amber Alert System, which broadcasts messages about abducted children.
+
+There were audible gasps when the judge handed down the 10-year sentence, and some of those who came to support Mr. Hammond began sobbing.
+
+Mr. Hammond showed little emotion when the sentence was delivered, but as he was escorted out of the courtroom he turned around and delivered a message to his supporters.
+
+“Long Live Anonymous!” he said, one fist pumped in the air.
+
+“Hurrah for anarchy!”
